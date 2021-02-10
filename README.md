@@ -8,9 +8,21 @@ WiDS Texas will take place over a period of 11 weeks from April 5 to June 18, 20
 
 Date  | Event 
 ------------- | -------------
-Week of April 5, 2021  | WiDS Texas Datathon Kick-off
-Week of April 19, 2021  | Technical Talk: Topic TBD
-Week of May 3, 2021 | WiDS Texas Datathon Wrap-up
-Week of May 17, 2021 | Panel Discussion: Topic TBD
-Week of May 31, 2021 | Technical Talk: <ul><li>Dee Satyal, Director of Client Services & Operations, Cresco International</li><li>Annamaria Balazs, Manager / Data Scientist of IBM </li></ul>
+Week of April 5, 2021  | Technical Talk: Topic TBD
+Week of April 19, 2021  | WiDS Texas Datathon Kick-off
+Week of May 3, 2021 | Panel Discussion: Topic TBD
+Week of May 17, 2021 | WiDS Texas Datathon Wrap-up
+Week of May 31, 2021 | Technical Talk: Title TBD<ul><li>Dee Satyal, Director of Client Services & Operations, Cresco International</li><li>Annamaria Balazs, Manager / Data Scientist, IBM </li></ul>
 Week of June 14, 2021 | Networking Event
+
+### Sponsors
+
+Please reach out if you are interested.
+
+### Organizers
+
+- Liliana Torres
+- Linda Brewster Meffert
+- Pushkar Kumar Jain
+- Jo-Anne Ting
+- Tailai Wen
