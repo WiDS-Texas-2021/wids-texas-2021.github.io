@@ -12,7 +12,7 @@ Week of April 5, 2021  | Technical Talks: <ul><li>Employee Opinion Survey Sentim
 Week of April 19, 2021  | WiDS Texas Datathon Kick-off
 Week of May 3, 2021 | Panel Discussion: Topic TBD
 Week of May 17, 2021 | WiDS Texas Datathon Wrap-up
-Week of May 31, 2021 | Technical Talks: <ul><li>Title TBD<br><a href="https://www.linkedin.com/in/dhritysatyal/" target="_blank">Dee Satyal</a>, Director of Client Services & Operations, Cresco International</li><li>Title TBD<br><a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM</li></ul>
+Week of May 31, 2021 | Technical Talks: <ul><li><a href="https://www.linkedin.com/in/dhritysatyal/" target="_blank">Dee Satyal</a>, Director of Client Services & Operations, Cresco International, Title TBD</li><li><a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM, Title TBD</li></ul>
 Week of June 14, 2021 | Technical Talks: Topic TBD
 Week of June 28, 2021 | Networking Event
 
