@@ -4,4 +4,16 @@ title: WiDS Texas 2021
 description: A regional Women in Data Science (WiDS) event to inspire, educate & support women in the field.
 logo:
 repository: 
-author_profile: false
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
