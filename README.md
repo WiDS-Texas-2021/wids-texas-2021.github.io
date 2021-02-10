@@ -4,6 +4,8 @@ WiDS Texas is an independent event that is organized to coincide with the annual
 
 WiDS Texas will take place over a period of 11 weeks from April 5 to June 30, 2021 and will consist of a datathon, technical talks, a panel discussion & a networking event.
 
+<br>
+
 ### Tentative Schedule (April 5 - June 30, 2021)
 
 - Week of April 5, 2021: Technical Talks
@@ -23,10 +25,13 @@ WiDS Texas will take place over a period of 11 weeks from April 5 to June 30, 20
 
 - Week of June 28, 2021: Networking Event
 
+<br>
 
 ### Sponsors
 
 Please get in touch for more info.
+
+<br>
 
 ### Organizers
 
