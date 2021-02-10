@@ -8,13 +8,19 @@ WiDS Texas will take place over a period of 11 weeks from April 5 to June 30, 20
 
 - Week of April 5, 2021: Technical Talks
   - <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/"  target="_blank">Joan Zaldivar</a>, Internal Audit Data Analytics Manager, "Employee Opinion Survey Sentiment Analysis"
+
 - Week of April 19, 2021: WiDS Texas Datathon Kick-off
+
 - Week of May 3, 2021: Panel Discussion
+
 - Week of May 17, 2021: WiDS Texas Datathon Wrap-up
+
 - Week of May 31, 2021: Technical Talks
   - <a href="https://www.linkedin.com/in/dhritysatyal/" target="_blank">Dee Satyal</a>, Director of Client Services & Operations, Cresco International, Title TBD
   - <a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM, Title TBD
+
 - Week of June 14, 2021: Technical Talks 
+
 - Week of June 28, 2021: Networking Event
 
 
