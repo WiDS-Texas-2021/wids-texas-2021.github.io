@@ -9,7 +9,7 @@ WiDS Texas will take place over a period of 11 weeks from April 5 to June 30, 20
 ### Tentative Schedule (April 5 - June 30, 2021)
 
 - Week of April 5, 2021: Technical Talks
-  - <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/"  target="_blank">Joan Zaldivar</a>, Internal Audit Data Analytics Manager, "Employee Opinion Survey Sentiment Analysis"
+  - <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/"  target="_blank">Joan Zaldivar</a>, Internal Audit Data Analytics Manager, McKesson, "Employee Opinion Survey Sentiment Analysis"
 
 - Week of April 19, 2021: WiDS Texas Datathon Kick-off
 
@@ -37,8 +37,8 @@ Please get in touch for more info.
 
 This WiDS event series is brought to you by the following WiDS 2021 ambassadors:
 
-- <a href="mailto:pushkar.jain@arundo.com">Pushkar Kumar Jain</a>, Arundo Analytics, WiDS Houston
-- <a href="mailto:Linda@myCoffeeCoach.com">Linda Brewster Meffert</a>, My Coffee Coach, WiDS San Antonio
-- <a href="mailto:jting@dataseer.digital">Jo-Anne Ting</a>, DataSeer, WiDS Houston
-- <a href="mailto:liliana.torres@mckesson.com">Liliana Torres</a>, McKesson, WiDS Dallas
-- <a href="mailto:wentailai@gmail.com">Tailai Wen</a>, Crayon, WiDS Dallas
+- <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, Arundo Analytics, WiDS Houston
+- <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, My Coffee Coach, WiDS San Antonio
+- <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting, DataSeer, WiDS Houston
+- <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres, McKesson, WiDS Dallas
+- <a href="https://www.linkedin.com/in/tailaiwen/" target="_blank">Tailai Wen, Crayon, WiDS Dallas
