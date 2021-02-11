@@ -40,5 +40,5 @@ This WiDS event series is brought to you by the following WiDS 2021 ambassadors:
 - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, Arundo Analytics, WiDS Houston
 - <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, My Coffee Coach, WiDS San Antonio
 - <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, DataSeer, WiDS Houston
-  - <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, McKesson, WiDS Dallas
-  - <a href="https://www.linkedin.com/in/tailaiwen/" target="_blank">Tailai Wen</a>, Crayon, WiDS Dallas
+- <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, McKesson, WiDS Dallas
+- <a href="https://www.linkedin.com/in/tailaiwen/" target="_blank">Tailai Wen</a>, Crayon, WiDS Dallas
