@@ -23,6 +23,7 @@ WiDS Texas will take place over a period of 11 weeks from April 5 to June 30, 20
   - TBD
 
 - Week of June 14, 2021: Technical Talks 
+  - <a href="https://www.linkedin.com/in/melissa-kazemirad/" target="_blank">Melissa Kazemi-Rad</a> Data Scientist, Crayon, "Automating CI/CD for Data Science Projects using Cloud Services"
 
 - Week of June 28, 2021: Networking Event
 
