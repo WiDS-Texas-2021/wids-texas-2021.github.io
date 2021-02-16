@@ -21,6 +21,7 @@ WiDS Texas will take place over a period of 11 weeks from April 5 to June 30, 20
   - <a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM, Title TBD
 
 - Week of June 14, 2021: Technical Talks 
+  - <a href="https://www.linkedin.com/in/ye-emma-zohner/" target="_blank">Emma Zohner</a>, Statistics, Rice University, "A Graphical Tool for Assessing Losslessness of Latent Feature Representations"
   - <a href="https://www.linkedin.com/in/melissa-kazemirad/" target="_blank">Melissa Kazemi-Rad</a>, Data Scientist, Crayon, "Automating CI/CD for Data Science Projects using Cloud Services"
 
 - Week of June 28, 2021: Networking Event
