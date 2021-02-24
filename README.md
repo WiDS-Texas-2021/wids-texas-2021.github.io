@@ -8,8 +8,8 @@ WiDS Texas will take place over a period of 11 weeks from April 5 to June 30, 20
 
 ### Tentative Schedule (April 5 - June 30, 2021)
 
-- April 7, 2021, 12pm CT: Technical Talks, moderated by <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>
-  - <a href="https://www.linkedin.com/in/rebeccaannebrooks/" target="_blank">Rebecca Brooks</a>, , <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/" target="_blank">Joan Zaldivar</a>, Data Analytics Internal Audit, McKesson, "Employee Opinion Survey Sentiment Analysis"
+- April 7, 2021, 12pm CT: Technical Talks (moderator: <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>)
+  - <a href="https://www.linkedin.com/in/rebeccaannebrooks/" target="_blank">Rebecca Brooks</a>, <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/" target="_blank">Joan Zaldivar</a>, Data Analytics Internal Audit, McKesson, "Employee Opinion Survey Sentiment Analysis"
   - <a href="https://www.linkedin.com/in/sunna-quazi-b1975532/">Sunna Quazi</a>, Data Scientist, CyrusOne, "Leveraging the Lake: Cloud Infrastructure to Enable Data Science Saturation"
 
 - Week of April 19, 2021: WiDS Texas Datathon Kick-off (Kaggle link coming soon)
