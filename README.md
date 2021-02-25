@@ -1,6 +1,6 @@
 # Welcome to WiDS Texas 2021
 
-WiDS Texas is an independent event that is organized as part of the annual <a href="https://www.widsconference.org/">WiDS Worldwide conference</a> organized by Stanford University and an estimated 150+ locations worldwide, which features outstanding women doing outstanding work in the field of data science. All genders are invited to attend all WiDS Worldwide conference events.
+WiDS Texas is an independent event that is organized as part of the annual <a href="https://www.widsconference.org/">WiDS Worldwide conference</a> organized by Stanford University and an estimated 150+ locations worldwide, which features outstanding women doing outstanding work in the field of data science. All genders are invited to attend all WiDS Worldwide conference events. We aim to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field.
 
 
 WiDS Texas will take place over a period of 12 weeks from start of April to end of June, 2021 and will consist of a series of events including a datathon, technical talks, a panel discussion & a networking session.
@@ -8,6 +8,8 @@ WiDS Texas will take place over a period of 12 weeks from start of April to end 
 <br>
 
 ### Series Schedule (April 7 - June 30, 2021)
+
+All events will be posted both here and on EventBrite over the next 12 weeks. Please check back often to connect with other Data Science enthusiasts in Texas and to register at links below to participate!
 
 - <strong>April 7, 2021, 12pm CT: Tech Talks</strong>
   - <a href="https://www.linkedin.com/in/rebeccaannebrooks/" target="_blank">Rebecca Brooks</a>, <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/" target="_blank">Joan Zaldivar</a>, Data Analytics Internal Audit, McKesson, "Employee Opinion Survey Sentiment Analysis"
