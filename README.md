@@ -34,6 +34,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - Moderator: <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, VP of Data Science, DataSeer
 
 - <strong>Week of June 28, 2021: Networking Event</strong>
+  - Register <a href="https://www.eventbrite.com/e/women-in-data-science-wids-texas-networking-event-tickets-143151139913" target="_blank">here<a/>
 
 <br>
 
