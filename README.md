@@ -11,7 +11,7 @@ WiDS Texas will take place over a period of 12 weeks from start of April to end 
 
 Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" target="_blank">EventBrite</a> and join us on <a href="https://www.linkedin.com/groups/9028186/" target="_blank">LinkedIn</a> to get updates on event registration. Check it out below!
 
-- <strong>April 7, 2021, 12pm CT: Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-tickets-143013542355" target="_blank">Registration<a/>
+- <strong>April 7, 2021, 12pm CT: WiDS Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-tickets-143013542355" target="_blank">Registration<a/>
   - <a href="https://www.linkedin.com/in/rebeccaannebrooks/" target="_blank">Rebecca Brooks</a>, <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/" target="_blank">Joan Zaldivar</a>, Data Analytics Internal Audit, McKesson, "Employee Opinion Survey Sentiment Analysis"
   - <a href="https://www.linkedin.com/in/sunna-quazi-b1975532/">Sunna Quazi</a>, Data Scientist, CyrusOne, "Leveraging the Lake: Cloud Infrastructure to Enable Data Science Saturation"
   - Moderator: <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, Senior Data Analyst, McKesson
@@ -26,11 +26,11 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 
 - <strong>Week of May 17, 2021: WiDS Texas Datathon Wrap-up</strong>
 
-- <strong>Week of May 31, 2021: Tech Talks</strong>
+- <strong>Week of May 31, 2021: WiDS Tech Talks</strong>
   - <a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM, Title TBD
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Head Coach, My Coffee Coach
 
-- <strong>Week of June 14, 2021: Tech Talks</strong>
+- <strong>Week of June 14, 2021: WiDS Tech Talks</strong>
   - <a href="https://www.linkedin.com/in/ye-emma-zohner/" target="_blank">Emma Zohner</a>, Statistics, Rice University, "A Graphical Tool for Assessing Losslessness of Latent Feature Representations"
   - <a href="https://www.linkedin.com/in/melissa-kazemirad/" target="_blank">Melissa Kazemi-Rad</a>, Data Scientist, Crayon, "Automating CI/CD for Data Science Projects using Cloud Services"
   - Moderator: <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, VP of Data Science, DataSeer
@@ -42,12 +42,8 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 ### Sponsors
 
 <div class="row">
-  <div class="column">
     <img src="images/Crayon-Logo-RGB-Original.jpg" width="25%" height="25%" alt="Crayon">
-  </div> 
-  <div class="column">
     <img src="images/DataSeer--500W.png" width="25%" height="25%" alt="DataSeer">
-  </div> 
 </div>
 
 <br>
