@@ -41,7 +41,14 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 
 ### Sponsors
 
-
+<div class="row">
+  <div class="column">
+    <img src="images/Crayon-Logo-RGB-Original.jpg" width="25%" height="25%" alt="Crayon">
+  </div> 
+  <div class="column">
+    <img src="images/DataSeer--500W.png" width="25%" height="25%" alt="DataSeer">
+  </div> 
+</div>
 
 <br>
 
