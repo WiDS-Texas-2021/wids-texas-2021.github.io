@@ -31,7 +31,7 @@ WiDS Texas will take place over a period of 11 weeks from April 5 to June 30, 20
 
 ### Sponsors
 
-Please contact us for more info at <a href="mailto:widstexas2021@gmail.com">widstexas2021@gmail.com</a>
+Please contact us for more info.
 
 <br>
 
