@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: WiDS Texas 2021
 logo: images/wids-2color-stacked.jpg
 social_links:
-   linkedin: https://www.linkedin.com/groups/9028186/
+   linkedin: groups/9028186/
 
 defaults:
   # _posts
