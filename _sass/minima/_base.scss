@@ -13,13 +13,6 @@ dl, dd, ol, ul, figure {
 
 }
 
-/**
- * Use WiDS Branding color for h1
- **/
-h1 {
-  color: #00B140;
-}
-
 
 /**
  * Basic styling
@@ -106,10 +99,11 @@ li {
 
 
 /**
- * Headings
+ * Headings (use WiDS Branding color)
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  color: #00B140;
 }
 
 
