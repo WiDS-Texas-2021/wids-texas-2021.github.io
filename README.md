@@ -11,7 +11,7 @@ WiDS Texas will take place over a period of 12 weeks from start of April to end 
 
 Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" target="_blank">EventBrite</a> and join us on <a href="https://www.linkedin.com/groups/9028186/" target="_blank">LinkedIn</a> to get updates on event registration. Check it out below!
 
-- <strong>April 7, 2021, 12pm CT: Tech Talks</strong> (<a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-tickets-143013542355" target="_blank">register<a/>)
+- <strong>April 7, 2021, 12pm CT: Tech Talks</strong> - Register <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-tickets-143013542355" target="_blank">here<a/>)
   - <a href="https://www.linkedin.com/in/rebeccaannebrooks/" target="_blank">Rebecca Brooks</a>, <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/" target="_blank">Joan Zaldivar</a>, Data Analytics Internal Audit, McKesson, "Employee Opinion Survey Sentiment Analysis"
   - <a href="https://www.linkedin.com/in/sunna-quazi-b1975532/">Sunna Quazi</a>, Data Scientist, CyrusOne, "Leveraging the Lake: Cloud Infrastructure to Enable Data Science Saturation"
   - Moderator: <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, Senior Data Analyst, McKesson
@@ -35,7 +35,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/melissa-kazemirad/" target="_blank">Melissa Kazemi-Rad</a>, Data Scientist, Crayon, "Automating CI/CD for Data Science Projects using Cloud Services"
   - Moderator: <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, VP of Data Science, DataSeer
 
-- <strong>Week of June 28, 2021: Networking Event</strong> (<a href="https://www.eventbrite.com/e/women-in-data-science-wids-texas-networking-event-tickets-143151139913" target="_blank">register<a/>)
+- <strong>Week of June 28, 2021: Networking Event</strong> - Register <a href="https://www.eventbrite.com/e/women-in-data-science-wids-texas-networking-event-tickets-143151139913" target="_blank">here<a/>
 
 <br>
 
