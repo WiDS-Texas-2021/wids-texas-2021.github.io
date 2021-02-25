@@ -1,7 +1,6 @@
 # Site settings
 theme: jekyll-theme-minimal
 title: WiDS Texas 2021
-description: WiDS comes to the Lone Star State
 logo: images/wids-2color-stacked.jpg
 
 defaults:
