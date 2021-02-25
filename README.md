@@ -7,7 +7,7 @@ WiDS Texas will take place over a period of 12 weeks from April to end of June, 
 
 <br>
 
-### Tentative Schedule (April 7 - June 30, 2021)
+### Series Schedule (April 7 - June 30, 2021)
 
 - <strong>April 7, 2021, 12pm CT: Tech Talks</strong>
   - <a href="https://www.linkedin.com/in/rebeccaannebrooks/" target="_blank">Rebecca Brooks</a>, <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/" target="_blank">Joan Zaldivar</a>, Data Analytics Internal Audit, McKesson, "Employee Opinion Survey Sentiment Analysis"
