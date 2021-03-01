@@ -16,8 +16,6 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/sunna-quazi-b1975532/">Sunna Quazi</a>, Data Scientist, CyrusOne, "Leveraging the Lake: Cloud Infrastructure to Enable Data Science Saturation"
   - Moderator: <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, Senior Data Analyst, McKesson
 
-
-
 - <strong>Week of April 19, 2021: WiDS Texas Datathon Kick-off</strong> (Kaggle link coming soon), co-organized by:
   - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, Senior Data Scientist, Arundo Analytics
   - <a href="https://www.linkedin.com/in/tailaiwen/" target="_blank">Tailai Wen</a>, Lead Data Scientist, Crayon
@@ -30,7 +28,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM, Title TBD
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Head Coach, My Coffee Coach
 
-- <strong>Week of June 14, 2021: WiDS Tech Talks</strong>
+- <strong>June 17, 2021, 12pm CT: WiDS Tech Talks</strong>
   - <a href="https://www.linkedin.com/in/ye-emma-zohner/" target="_blank">Emma Zohner</a>, Statistics, Rice University, "A Graphical Tool for Assessing Losslessness of Latent Feature Representations"
   - <a href="https://www.linkedin.com/in/melissa-kazemirad/" target="_blank">Melissa Kazemi-Rad</a>, Data Scientist, Crayon, "Automating CI/CD for Data Science Projects using Cloud Services"
   - Moderator: <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, VP of Data Science, DataSeer
