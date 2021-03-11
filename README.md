@@ -37,6 +37,8 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 
 ### Sponsors
 
+A big thank you to our sponsors for making WiDS Texas possible.
+
 <div class="row">
   <p><a href="https://www.arundo.com/" target="_blank"><img src="images/arundo-black@4x-100.png" width="45%" height="45%" alt="Arundo"></a></p>
   <p><a href="https://www.crayon.com/" target="_blank"><img src="images/Crayon-Logo-RGB-Original.jpg" width="45%" height="45%" alt="Crayon"></a></p>
