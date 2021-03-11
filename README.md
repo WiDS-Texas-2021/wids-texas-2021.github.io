@@ -26,7 +26,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM, Title TBD
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Head Coach, My Coffee Coach
 
-- <strong>June 17, 2021, 12pm-1pm CT: WiDS Tech Talks</strong>
+- <strong>June 17, 2021, 12pm-1pm CT: WiDS Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-3-tickets-145751455527" target="_blank">Registration<a/>
   - <a href="https://www.linkedin.com/in/ye-emma-zohner/" target="_blank">Emma Zohner</a>, Statistics, Rice University, "A Graphical Tool for Assessing Losslessness of Latent Feature Representations"
   - <a href="https://www.linkedin.com/in/melissa-kazemirad/" target="_blank">Melissa Kazemi-Rad</a>, Data Scientist, Crayon, "Automating CI/CD for Data Science Projects using Cloud Services"
   - Moderator: <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, VP of Data Science, DataSeer
@@ -48,6 +48,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 
 This WiDS event series is brought to you by the following WiDS 2021 Texas ambassadors:
 
+- <a href="https://www.linkedin.com/in/gaby-arellano-bello-8b485052/" target="_blank">Gaby Arellano Bello</a>, WiDS Dallas
 - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, WiDS Houston
 - <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, WiDS San Antonio
 - <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, WiDS Houston
