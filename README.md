@@ -16,11 +16,13 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/sunna-quazi-b1975532/">Sunna Quazi</a>, Data Scientist, CyrusOne, "Leveraging the Lake: Cloud Infrastructure to Enable Data Science Saturation"
   - Moderator: <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, Senior Data Analyst, McKesson
 
-- <strong>May 6, 2021, 12pm-1pm CT: Panel Discussion</strong> on "Bias in Data Science: How to Detect, Diagnose & Mitigate" - <a href="https://www.eventbrite.com/e/wids-texas-panel-discussion-women-in-data-science-tickets-148841971343" target="_blank">Registration<a/>
-  - <a href="https://www.linkedin.com/in/jenniferaue/" target="_blank">Jennifer Aue</a>, Distinguished Designer & Director for AI Transformation, IBM
-  - <a href="https://www.linkedin.com/in/lnb/" target="_blank">Lydia Brothers</a>, Decision Science Analyst, USAA
-  - <a href="https://www.linkedin.com/in/shirinsamani/" target="_blank">Shirin Samani</a>, Data Scientist / Chief Engineer, NeuDax
-  - <a href="https://www.linkedin.com/in/alejandrazertuche/" target="_blank">Alejandra Zertuche, M.B.A.</a>, Chief Executive Officer, Enflux
+- <strong>May 6, 2021, 12pm-1pm CT: Panel Discussion</strong> - <a href="https://www.eventbrite.com/e/wids-texas-panel-discussion-women-in-data-science-tickets-148841971343" target="_blank">Registration<a/>
+  - Topic: "Bias in Data Science: How to Detect, Diagnose & Mitigate"
+  - Panelists:
+    - <a href="https://www.linkedin.com/in/jenniferaue/" target="_blank">Jennifer Aue</a>, Distinguished Designer & Director for AI Transformation, IBM
+    - <a href="https://www.linkedin.com/in/lnb/" target="_blank">Lydia Brothers</a>, Decision Science Analyst, USAA
+    - <a href="https://www.linkedin.com/in/shirinsamani/" target="_blank">Shirin Samani</a>, Data Scientist / Chief Engineer, NeuDax
+    - <a href="https://www.linkedin.com/in/alejandrazertuche/" target="_blank">Alejandra Zertuche, M.B.A.</a>, Chief Executive Officer, Enflux
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Business Consultant
 
 - <strong>May 17, 2021 (Time TBD): WiDS Texas Datathon Kick-off</strong> (Kaggle link coming soon), co-organized by:
