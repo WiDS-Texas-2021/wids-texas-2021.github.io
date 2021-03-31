@@ -16,7 +16,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/sunna-quazi-b1975532/">Sunna Quazi</a>, Data Scientist, CyrusOne, "Leveraging the Lake: Cloud Infrastructure to Enable Data Science Saturation"
   - Moderator: <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, Senior Data Analyst, McKesson
 
-- <strong>Week of May 3, 2021: Panel Discussion</strong> - <a href="https://www.eventbrite.com/e/wids-texas-panel-discussion-women-in-data-science-tickets-148841971343" target="_blank">Registration<a/>
+- <strong>May 6, 2021, 12pm-1pm CT: Panel Discussion</strong> - <a href="https://www.eventbrite.com/e/wids-texas-panel-discussion-women-in-data-science-tickets-148841971343" target="_blank">Registration<a/>
   - <a href="https://www.linkedin.com/in/jenniferaue/" target="_blank">Jennifer Aue</a>, Distinguished Designer & Director for AI Transformation, IBM
   - <a href="https://www.linkedin.com/in/lnb/" target="_blank">Lydia Brothers</a>, Decision Science Analyst, USAA
   - <a href="https://www.linkedin.com/in/shirinsamani/" target="_blank">Shirin Samani</a>, Data Scientist / Chief Engineer, NeuDax
@@ -27,7 +27,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, Senior Data Scientist, Arundo Analytics
   - <a href="https://www.linkedin.com/in/tailaiwen/" target="_blank">Tailai Wen</a>, Lead Data Scientist, Crayon
 
-- <strong>Week of May 31, 2021: WiDS Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-2-tickets-148839576179" target="_blank">Registration<a/>
+- <strong>June 2, 2021, 12pm-1pm CT: WiDS Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-2-tickets-148839576179" target="_blank">Registration<a/>
   - <a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM, "Journey to AI: A Forecasting and Optimization Use Case"
   - <a href="https://www.linkedin.com/in/meltemballan/" target="_blank"> Meltem Ballan, Ph.D.</a>, Professional Fellow - Data Science, General Motors, "What makes AI intelligent and how intelligent is AI?"
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Business Consultant
