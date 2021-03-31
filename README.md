@@ -19,7 +19,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 - <strong>Week of May 3, 2021: Panel Discussion</strong> - <a href="https://www.eventbrite.com/e/wids-texas-panel-discussion-women-in-data-science-tickets-148841971343" target="_blank">Registration<a/>
   - <a href="https://www.linkedin.com/in/jenniferaue/" target="_blank">Jennifer Aue</a>, Distinguished Designer & Director for AI Transformation, IBM
   - <a href="https://www.linkedin.com/in/lnb/" target="_blank">Lydia Brothers</a>, Decision Science Analyst, USAA
-  - <a href="https://www.linkedin.com/in/shirinsamani/" target="_blank">Shirin Samani</a>, Data Scientist | Chief Engineer, NeuDax
+  - <a href="https://www.linkedin.com/in/shirinsamani/" target="_blank">Shirin Samani</a>, Data Scientist / Chief Engineer, NeuDax
   - <a href="https://www.linkedin.com/in/alejandrazertuche/" target="_blank">Alejandra Zertuche, M.B.A.</a>, Chief Executive Officer, Enflux
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Business Consultant
 
