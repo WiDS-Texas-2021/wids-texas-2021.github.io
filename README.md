@@ -23,7 +23,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/alejandrazertuche/" target="_blank">Alejandra Zertuche, M.B.A.</a>, Chief Executive Officer, Enflux
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Business Consultant
 
-- <strong>May 17, 2021 (Time TBD): WiDS Texas Datathon Kick-off</strong> (Kaggle link coming soon), co-organized by:
+- <strong>May 17, 2021 (Time TBD): WiDS Texas Datathon Kick-off</strong> (Kaggle registration link coming soon), co-organized by:
   - <a href="https://www.linkedin.com/in/gaby-arellano-bello-8b485052/" target="_blank">Gaby Arellano Bello</a>, Customer Success Engineer, MathWorks
   - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, Senior Data Scientist, Arundo Analytics
   - <a href="https://www.linkedin.com/in/tailaiwen/" target="_blank">Tailai Wen</a>, Lead Data Scientist, Crayon
