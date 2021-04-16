@@ -61,6 +61,7 @@ This WiDS event series is brought to you by the following WiDS 2021 Texas ambass
 
 - <a href="https://www.linkedin.com/in/gaby-arellano-bello-8b485052/" target="_blank">Gaby Arellano Bello</a>, WiDS Dallas
 - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, WiDS Houston
+- <a href="https://www.linkedin.com/in/samaya-madhavan/" target="_blank">Samaya Madhavan</a>, WiDS Dallas
 - <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, WiDS San Antonio
 - <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, WiDS Houston
 - <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, WiDS Dallas
