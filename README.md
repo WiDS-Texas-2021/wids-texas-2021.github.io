@@ -26,6 +26,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 - <strong>May 17, 2021 (Time TBD): WiDS Texas Datathon Kick-off</strong> (Kaggle registration link coming soon), co-organized by:
   - <a href="https://www.linkedin.com/in/gaby-arellano-bello-8b485052/" target="_blank">Gaby Arellano Bello</a>, Customer Success Engineer, MathWorks
   - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, Senior Data Scientist, Arundo Analytics
+  - <a href="https://www.linkedin.com/in/samaya-madhavan/" target="_blank">Samaya Madhavan</a>, Advisory Software Engineer, IBM
   - <a href="https://www.linkedin.com/in/tailaiwen/" target="_blank">Tailai Wen</a>, Lead Data Scientist, Crayon
 
 - <strong>June 2, 2021, 12pm-1pm CT: WiDS Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-2-tickets-148839576179" target="_blank">Registration<a/>
