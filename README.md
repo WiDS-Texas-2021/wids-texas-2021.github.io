@@ -11,12 +11,12 @@ WiDS Texas will take place over a period of 12 weeks from start of April to end 
 
 Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" target="_blank">EventBrite</a> and join us on <a href="https://www.linkedin.com/groups/9028186/" target="_blank">LinkedIn</a> to get updates on event registration. Check it out below!
 
-- <strong>April 7, 2021, 12pm-1pm CT: WiDS Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-tickets-143013542355" target="_blank">Registration<a/>
+- <strong>April 7, 2021, 12pm-1pm CT: WiDS Tech Talks</strong> 
   - <a href="https://www.linkedin.com/in/rebeccaannebrooks/" target="_blank">Rebecca Brooks</a>, <a href="https://www.linkedin.com/in/joan-zaldivar-5a25317/" target="_blank">Joan Zaldivar</a>, Data Analytics Internal Audit, McKesson, "Employee Opinion Survey Sentiment Analysis"
   - <a href="https://www.linkedin.com/in/sunna-quazi-b1975532/">Sunna Quazi</a>, Data Scientist, CyrusOne, "Leveraging the Lake: Cloud Infrastructure to Enable Data Science Saturation"
   - Moderator: <a href="https://www.linkedin.com/in/liliana-torres-68009435/" target="_blank">Liliana Torres</a>, Senior Data Analyst, McKesson
 
-- <strong>May 6, 2021, 12pm-1pm CT: Panel Discussion</strong> on "Bias in Data Science: How to Detect, Diagnose & Mitigate" - <a href="https://www.eventbrite.com/e/wids-texas-panel-discussion-women-in-data-science-tickets-148841971343" target="_blank">Registration<a/>
+- <strong>May 6, 2021, 12pm-1pm CT: Panel Discussion</strong> on "Bias in Data Science: How to Detect, Diagnose & Mitigate"
   - <a href="https://www.linkedin.com/in/jenniferaue/" target="_blank">Jennifer Aue</a>, Distinguished Designer & Director for AI Transformation, IBM
   - <a href="https://www.linkedin.com/in/lnb/" target="_blank">Lydia Brothers</a>, Decision Science Analyst, USAA
   - <a href="https://www.linkedin.com/in/shirinsamani/" target="_blank">Shirin Samani</a>, Data Scientist / Chief Engineer, NeuDax
