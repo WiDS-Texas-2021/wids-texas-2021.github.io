@@ -23,13 +23,13 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/alejandrazertuche/" target="_blank">Alejandra Zertuche, M.B.A.</a>, Chief Executive Officer, Enflux
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Business Consultant
 
-- <strong>May 17, 2021: WiDS Texas Datathon Kick-off</strong> - <a href="https://widstexas2021.github.io/datathon/" target="_blank">Registration</a>, co-organized by:
+- <strong>May 17, 2021: WiDS Texas Datathon Kick-off</strong> - co-organized by:
   - <a href="https://www.linkedin.com/in/gaby-arellano-bello-8b485052/" target="_blank">Gaby Arellano Bello</a>, Customer Success Engineer, MathWorks
   - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, Senior Data Scientist, Arundo Analytics
   - <a href="https://www.linkedin.com/in/samaya-madhavan/" target="_blank">Samaya Madhavan</a>, Advisory Software Engineer, IBM
   - <a href="https://www.linkedin.com/in/tailaiwen/" target="_blank">Tailai Wen</a>, Lead Data Scientist, Crayon
 
-- <strong>June 2, 2021, 12pm-1pm CT: WiDS Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-2-tickets-148839576179" target="_blank">Registration<a/>
+- <strong>June 2, 2021, 12pm-1pm CT: WiDS Tech Talks</strong> 
   - <a href="https://www.linkedin.com/in/annamaria-balazs/" target="_blank">Annamaria Balazs</a>, Manager / Data Scientist, IBM, "Journey to AI: A Forecasting and Optimization Use Case"
   - <a href="https://www.linkedin.com/in/meltemballan/" target="_blank"> Meltem Ballan, Ph.D.</a>, Professional Fellow - Data Science, General Motors, "What makes AI intelligent and how intelligent is AI?"
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Business Consultant
