@@ -41,7 +41,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 
 - <strong>June 30, 2021, 12pm-1pm CT: Networking Event</strong> - <a href="https://www.eventbrite.com/e/women-in-data-science-wids-texas-networking-event-tickets-143151139913" target="_blank">Registration<a/>
 
-- <strong>June 30, 2021, 2pm-3pm CT: Datathon Winning Teams: Solution Presentations & Awards</strong> - <a href="https://www.eventbrite.com/e/wids-texas-datathon-winning-teams-solution-presentations-awards-tickets-158026969921" target="_blank">Registration<a/>
+- <strong>June 30, 2021, 6pm-7pm CT: Datathon Winning Teams: Solution Presentations & Awards</strong> - <a href="https://www.eventbrite.com/e/wids-texas-datathon-winning-teams-solution-presentations-awards-tickets-158026969921" target="_blank">Registration<a/>
   
 <br>
 
