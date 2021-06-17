@@ -34,7 +34,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/meltemballan/" target="_blank"> Meltem Ballan, Ph.D.</a>, Professional Fellow - Data Science, General Motors, "What makes AI intelligent and how intelligent is AI?"
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Business Consultant
 
-- <strong>June 17, 2021, 12pm-1pm CT: WiDS Tech Talks</strong> - <a href="https://www.eventbrite.com/e/wids-texas-tech-talks-series-3-tickets-145751455527" target="_blank">Registration<a/>
+- <strong>June 17, 2021, 12pm-1pm CT: WiDS Tech Talks</strong>
   - <a href="https://www.linkedin.com/in/ye-emma-zohner/" target="_blank">Emma Zohner</a>, Statistics, Rice University, "A Graphical Tool for Assessing Losslessness of Latent Feature Representations"
   - <a href="https://www.linkedin.com/in/melissa-kazemirad/" target="_blank">Melissa Kazemi-Rad</a>, Data Scientist, Crayon, "Automating CI/CD for Data Science Projects using Cloud Services"
   - Moderator: <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, VP of Data Science, DataSeer
