@@ -23,7 +23,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/alejandrazertuche/" target="_blank">Alejandra Zertuche, M.B.A.</a>, Chief Executive Officer, Enflux
   - Moderator: <a href="https://www.linkedin.com/in/lindabrewstermeffert/" target="_blank">Linda Brewster Meffert</a>, Business Consultant
 
-- <strong>May 17, 2021: <a href="https://widstexas2021.github.io/datathon/" target="_blank">WiDS Texas Datathon Kick-off</a></strong> - co-organized by:
+- <strong>May 17, 2021: WiDS Texas Datathon Kick-off</strong> (<a href="https://widstexas2021.github.io/datathon/" target="_blank">link</a>) - co-organized by:
   - <a href="https://www.linkedin.com/in/gaby-arellano-bello-8b485052/" target="_blank">Gaby Arellano Bello</a>, Customer Success Engineer, MathWorks
   - <a href="https://www.linkedin.com/in/pushkarkumarjain/" target="_blank">Pushkar Kumar Jain</a>, Senior Data Scientist, Arundo Analytics
   - <a href="https://www.linkedin.com/in/samaya-madhavan/" target="_blank">Samaya Madhavan</a>, Advisory Software Engineer, IBM
@@ -41,7 +41,7 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
 
 - <strong>June 30, 2021, 12pm-1pm CT: Networking Event</strong>
 
-- <strong>June 30, 2021, 6pm-7pm CT: <a href="https://widstexas2021.github.io/datathon/" target="_blank">Datathon Winning Teams: Solution Presentations & Awards</a></strong>
+- <strong>June 30, 2021, 6pm-7pm CT: Datathon Winning Teams: Solution Presentations & Awards</strong> (<a href="https://widstexas2021.github.io/datathon/" target="_blank">link</a>) 
   
 <br>
 
