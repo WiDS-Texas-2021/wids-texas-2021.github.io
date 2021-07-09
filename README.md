@@ -39,9 +39,9 @@ Follow us on <a href="https://www.eventbrite.com/o/wids-texas-32661455905" targe
   - <a href="https://www.linkedin.com/in/melissa-kazemirad/" target="_blank">Melissa Kazemi-Rad</a>, Data Scientist, Crayon, "Automating CI/CD for Data Science Projects using Cloud Services"
   - Moderator: <a href="https://www.linkedin.com/in/joanneti/" target="_blank">Jo-Anne Ting</a>, VP of Data Science, DataSeer
 
-- <strong>June 30, 2021, 12pm-1pm CT: Networking Event</strong> - <a href="https://www.eventbrite.com/e/women-in-data-science-wids-texas-networking-event-tickets-143151139913" target="_blank">Registration<a/>
+- <strong>June 30, 2021, 12pm-1pm CT: Networking Event</strong>
 
-- <strong>June 30, 2021, 6pm-7pm CT: Datathon Winning Teams: Solution Presentations & Awards</strong> - <a href="https://www.eventbrite.com/e/wids-texas-datathon-winning-teams-solution-presentations-awards-tickets-158026969921" target="_blank">Registration<a/>
+- <strong>June 30, 2021, 6pm-7pm CT: Datathon Winning Teams: Solution Presentations & Awards</strong>
   
 <br>
 
